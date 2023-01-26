@@ -1,0 +1,3 @@
+class vivek{
+public static void main()
+}
